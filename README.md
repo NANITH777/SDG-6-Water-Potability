@@ -4,7 +4,7 @@
 
 The goal of this project is to develop a machine learning model to predict the potability of water based on its chemical properties. By analyzing and preprocessing the data, and applying different machine learning algorithms with hyperparameter tuning, the best performing model is selected to make reliable predictions on water quality. The final model is then saved for future use.
 
-This project is part of a `Hackathon` organized by the <strong style="color: blue; font-size: 20px;"> Frontier Tech Leaders </strong> community, aiming to contribute solutions to the United Nations' Sustainable Development Goals (SDG), particularly focusing on ensuring clean water and sanitation for all.
+This project is part of a `Hackathon` organized by the <strong> Frontier Tech Leaders </strong> community, aiming to contribute solutions to the United Nations' Sustainable Development Goals (SDG), particularly focusing on ensuring clean water and sanitation for all.
 
 #### Steps Involved
 
@@ -47,7 +47,3 @@ This project is part of a `Hackathon` organized by the <strong style="color: blu
 7. **Model Deployment**
    - Saved the trained model using `joblib` for future use in making predictions.
    - Demonstrated making predictions on new data.
-
----
-
-By following these steps, the project aims to create an effective and reliable model for predicting water potability, contributing to improved water quality management and safety.
